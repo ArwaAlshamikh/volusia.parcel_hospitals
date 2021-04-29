@@ -8,3 +8,5 @@ Load table (download zip file in repository, extract to c:\temp\cs540)
 COPY volusia.parcel_hospitals from 'C:\temp\cs540\parcel_hospital.txt' WITH (FORMAT 'csv', DELIMITER E'\t', NULL '', HEADER);
 
 To find more about the problem and the way I solved it see the PDF I have uploaded. 
+
+https://github.com/ArwaAlshamikh/volusia.parcel_hospitals/blob/main/Student%20presentation%20(hospitals).pdf

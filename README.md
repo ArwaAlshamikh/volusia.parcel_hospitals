@@ -1,7 +1,7 @@
 # volusia.parcel_hospitals
 The problem I picked is how to create parcel_hospitals table and how to find the neareset hospital to a random parcel and the hospital name. 
 
-The zipped file has two files which are the exracted data from parcel_hospital table and the (hospitals_distance , parid) from gis_hospital table.
+The zipped file has two files which are the extracted data from the parcel_hospitals table and the (hospital_distance, parid) from gis_hospital table.
 
 Load table (download zip file in repository, extract to c:\temp\cs540)
 

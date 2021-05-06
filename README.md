@@ -49,6 +49,14 @@ vacuum analyze volusia.parcel;
 ![image](https://user-images.githubusercontent.com/82989740/117295910-aa604b00-ae31-11eb-9786-8625c3ae1209.png)
 
 
+#Sampile of the hospital table, showing all the hospitals in VC...
+
+![image](https://user-images.githubusercontent.com/82989740/117296943-dfb96880-ae32-11eb-9be0-2b59486df91e.png)
+
+#Here you can see the hospital distances and the parides...
+
+![image](https://user-images.githubusercontent.com/82989740/117297198-2b6c1200-ae33-11eb-93af-11ab6f172294.png)
+
 
 The zipped file has two files which are the extracted data from the parcel_hospitals table and the (hospital_distance, parid) from gis_hospital table.
 
